@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "197478614049",
+    "project_id": "demofirebase2211",
+    "storage_bucket": "demofirebase2211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197478614049:android:de464211b3b90e418acf60",
+        "android_client_info": {
+          "package_name": "PABA.UAS.c14210001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwkI8YO3jziA-3BjoxU4hPc36dWhIVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197478614049:android:94538f49382de9e88acf60",
+        "android_client_info": {
+          "package_name": "c14210001.demofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwkI8YO3jziA-3BjoxU4hPc36dWhIVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197478614049:android:78899d3bced182268acf60",
+        "android_client_info": {
+          "package_name": "c14210001.recycleview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwkI8YO3jziA-3BjoxU4hPc36dWhIVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
